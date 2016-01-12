@@ -156,3 +156,48 @@ time {
 
 }
 
+/* TAB TIME */
+
+.tabs li {
+	display: inline-block;
+	margin: 0px 0px;
+	list-style: none;
+	border-radius: 13px 13px 0px 0px;
+	border: thin solid #ff4d4d;
+
+}
+
+.tabs li a {
+	color: #ff4d4d;
+	text-decoration: none;
+
+}
+
+.tab-content {
+	border: thin solid #ff4d4d;
+	position: relative;
+	top:-16px;
+	padding: 15px;
+}
+
+.active-tab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
