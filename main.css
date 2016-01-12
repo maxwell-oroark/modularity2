@@ -1,0 +1,158 @@
+/* ADD YOUR STYLES HERE */
+.image-row {
+	margin: 0 auto;
+	width: 100%;
+
+}
+
+.image-row img {
+	padding: 2%;
+	display:inline-block;
+	vertical-align: top;
+}
+
+.image-row ol {
+	display: inline-block;
+	vertical-align: top;
+	padding: 2%;
+}
+
+.image-row p {
+	display: inline-block;
+	padding: 2%;
+
+}
+.image-row-vertical {
+	padding:2%;
+	margin: 0 auto;
+	width: 15%;
+}
+.image-row-vertical img {
+	margin: 0 auto;
+	display:block;
+	padding:2%;
+}
+
+.image-row-vertical p {
+	margin: 0 auto;
+	display:block;
+	padding:2%;
+}
+
+ul li{
+	display: inline;
+	padding: 2%;
+}
+
+#bs {
+	background-color:#ff4d4d;
+	color: white;
+	text-decoration: none;
+	font-size: large;
+	vertical-align: middle;
+	border-radius: 10px;
+}
+
+button, input, button a, input a {
+	background-color:#ff4d4d;
+	border-radius: 10px;
+	border: none;
+	margin: 2%;
+}
+
+
+button a, input, nav a {
+	color: white;
+	text-decoration: none;
+	font-size: large;
+	vertical-align: middle;
+
+}
+
+button.large {
+	width: 200px;
+	height: 150px;
+	border-radius: 10px;
+}
+button.medium {
+	width:100px;
+	height:75px;
+	border-radius: 10px;
+}
+button.small {
+	width: 75px;
+	height: 50px;
+	border-radius: 10px;
+
+}
+
+nav a:hover {
+	background-color: blue;
+}
+
+nav {
+	background-color:#ff4d4d;
+	border-radius: 10px;
+	margin: 2%;
+}
+
+.pagination {
+	background-color: #ff4d4d;
+	border-radius: 15px;
+	height: 40px;
+	line-height: 40px;
+	width: 400px;
+
+}
+.pagination li {
+	display: inline;
+	vertical-align: middle;
+	margin:5px;
+}
+
+.pagination a {
+	color:white;
+}
+
+	
+.active {
+	color: #ff4d4d;
+	background-color: white;
+	padding:5px;
+	border-radius: 15px;
+	width: 25px;
+}
+
+.avatar {
+	display:inline-block;
+	float:left;
+	clear: left;
+	overflow:hidden;
+	padding-right: 10px;
+
+}
+
+.mini-avatar {
+	display:inline-block;
+	float:left;
+	overflow:hidden;
+	padding-right:10px;
+}
+
+div .txt {
+	vertical-align: top;
+	height: 80px;
+	padding-top: 10px;
+}
+
+time {
+	font-size: small;
+	color: grey;
+
+}
+
+.reply {
+	margin-left: 60px;
+
+}
+
