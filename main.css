@@ -180,9 +180,17 @@ time {
 	padding: 15px;
 }
 
-.active-tab
+.tab-links {
+	text-transform: uppercase;
 
+}
 
+li.active-tab {
+	position: relative;
+	border-bottom-color:white;
+	z-index: 1;
+
+}
 
 
 
